@@ -73,7 +73,7 @@ const App: () => Node = () => {
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.js</Text> to change this
             screen and then come back to see your edits.rekofkeofk,ddd
-            
+
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
   sectionDescription: {
     marginTop: 8,
     fontSize: 18,
-    fontWeight: '400',
+    fontWeight: '402',
   },
   highlight: {
     fontWeight: '700',
